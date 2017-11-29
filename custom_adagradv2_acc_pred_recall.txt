@@ -1,0 +1,400 @@
+
+Test set: Average loss: 0.0031, Accuracy: 12737/21199 (60.1%), Precision: 59.7%, Recall: 53.1%
+
+Test set: Average loss: 0.0029, Accuracy: 14007/21199 (66.1%), Precision: 63.3%, Recall: 62.0%
+
+Test set: Average loss: 0.0022, Accuracy: 14852/21199 (70.1%), Precision: 62.2%, Recall: 68.3%
+
+Test set: Average loss: 0.0017, Accuracy: 14886/21199 (70.2%), Precision: 77.4%, Recall: 74.2%
+
+Test set: Average loss: 0.0018, Accuracy: 14807/21199 (69.8%), Precision: 71.4%, Recall: 69.0%
+
+Test set: Average loss: 0.0023, Accuracy: 15107/21199 (71.3%), Precision: 73.6%, Recall: 69.3%
+
+Test set: Average loss: 0.0022, Accuracy: 15268/21199 (72.0%), Precision: 77.5%, Recall: 72.7%
+
+Test set: Average loss: 0.0016, Accuracy: 15182/21199 (71.6%), Precision: 69.6%, Recall: 72.0%
+
+Test set: Average loss: 0.0028, Accuracy: 14865/21199 (70.1%), Precision: 73.3%, Recall: 70.7%
+
+Test set: Average loss: 0.0033, Accuracy: 14961/21199 (70.6%), Precision: 80.6%, Recall: 75.6%
+
+Test set: Average loss: 0.0022, Accuracy: 15096/21199 (71.2%), Precision: 68.9%, Recall: 79.8%
+
+Test set: Average loss: 0.0023, Accuracy: 15288/21199 (72.1%), Precision: 67.0%, Recall: 73.1%
+
+Test set: Average loss: 0.0019, Accuracy: 15120/21199 (71.3%), Precision: 71.5%, Recall: 83.1%
+
+Test set: Average loss: 0.0015, Accuracy: 15232/21199 (71.9%), Precision: 74.3%, Recall: 67.9%
+
+Test set: Average loss: 0.0023, Accuracy: 14988/21199 (70.7%), Precision: 72.4%, Recall: 80.2%
+
+Test set: Average loss: 0.0026, Accuracy: 15172/21199 (71.6%), Precision: 72.4%, Recall: 70.6%
+
+Test set: Average loss: 0.0032, Accuracy: 15254/21199 (72.0%), Precision: 72.9%, Recall: 71.4%
+
+Test set: Average loss: 0.0046, Accuracy: 15322/21199 (72.3%), Precision: 77.5%, Recall: 73.7%
+
+Test set: Average loss: 0.0031, Accuracy: 15386/21199 (72.6%), Precision: 80.8%, Recall: 76.0%
+
+Test set: Average loss: 0.0031, Accuracy: 15354/21199 (72.4%), Precision: 78.3%, Recall: 73.9%
+
+Test set: Average loss: 0.0025, Accuracy: 15581/21199 (73.5%), Precision: 82.3%, Recall: 78.6%
+
+Test set: Average loss: 0.0037, Accuracy: 15448/21199 (72.9%), Precision: 77.0%, Recall: 70.5%
+
+Test set: Average loss: 0.0030, Accuracy: 15447/21199 (72.9%), Precision: 72.7%, Recall: 70.5%
+
+Test set: Average loss: 0.0022, Accuracy: 15425/21199 (72.8%), Precision: 71.3%, Recall: 70.2%
+
+Test set: Average loss: 0.0027, Accuracy: 15618/21199 (73.7%), Precision: 79.9%, Recall: 77.3%
+
+Test set: Average loss: 0.0043, Accuracy: 15394/21199 (72.6%), Precision: 72.1%, Recall: 71.7%
+
+Test set: Average loss: 0.0022, Accuracy: 15541/21199 (73.3%), Precision: 78.7%, Recall: 81.4%
+
+Test set: Average loss: 0.0029, Accuracy: 15406/21199 (72.7%), Precision: 71.2%, Recall: 73.8%
+
+Test set: Average loss: 0.0050, Accuracy: 15544/21199 (73.3%), Precision: 86.1%, Recall: 86.5%
+
+Test set: Average loss: 0.0026, Accuracy: 15354/21199 (72.4%), Precision: 77.8%, Recall: 76.8%
+
+Test set: Average loss: 0.0017, Accuracy: 15384/21199 (72.6%), Precision: 73.9%, Recall: 75.1%
+
+Test set: Average loss: 0.0029, Accuracy: 15394/21199 (72.6%), Precision: 75.7%, Recall: 68.6%
+
+Test set: Average loss: 0.0037, Accuracy: 15516/21199 (73.2%), Precision: 73.9%, Recall: 75.6%
+
+Test set: Average loss: 0.0044, Accuracy: 15506/21199 (73.1%), Precision: 74.6%, Recall: 77.6%
+
+Test set: Average loss: 0.0027, Accuracy: 15307/21199 (72.2%), Precision: 68.5%, Recall: 76.1%
+
+Test set: Average loss: 0.0041, Accuracy: 15379/21199 (72.5%), Precision: 70.4%, Recall: 70.0%
+
+Test set: Average loss: 0.0018, Accuracy: 15535/21199 (73.3%), Precision: 65.5%, Recall: 69.2%
+
+Test set: Average loss: 0.0030, Accuracy: 15548/21199 (73.3%), Precision: 81.4%, Recall: 83.3%
+
+Test set: Average loss: 0.0025, Accuracy: 15331/21199 (72.3%), Precision: 65.2%, Recall: 58.5%
+
+Test set: Average loss: 0.0034, Accuracy: 15463/21199 (72.9%), Precision: 78.6%, Recall: 76.1%
+
+Test set: Average loss: 0.0026, Accuracy: 15564/21199 (73.4%), Precision: 75.4%, Recall: 81.9%
+
+Test set: Average loss: 0.0032, Accuracy: 15440/21199 (72.8%), Precision: 70.3%, Recall: 82.1%
+
+Test set: Average loss: 0.0031, Accuracy: 15564/21199 (73.4%), Precision: 62.0%, Recall: 72.9%
+
+Test set: Average loss: 0.0024, Accuracy: 15499/21199 (73.1%), Precision: 64.9%, Recall: 64.8%
+
+Test set: Average loss: 0.0026, Accuracy: 15136/21199 (71.4%), Precision: 73.6%, Recall: 71.1%
+
+Test set: Average loss: 0.0025, Accuracy: 15338/21199 (72.4%), Precision: 59.6%, Recall: 63.1%
+
+Test set: Average loss: 0.0021, Accuracy: 15579/21199 (73.5%), Precision: 72.8%, Recall: 77.1%
+
+Test set: Average loss: 0.0027, Accuracy: 15575/21199 (73.5%), Precision: 81.2%, Recall: 78.4%
+
+Test set: Average loss: 0.0016, Accuracy: 15616/21199 (73.7%), Precision: 79.6%, Recall: 78.6%
+
+Test set: Average loss: 0.0044, Accuracy: 15756/21199 (74.3%), Precision: 72.6%, Recall: 79.1%
+
+Test set: Average loss: 0.0023, Accuracy: 15611/21199 (73.6%), Precision: 73.8%, Recall: 69.4%
+
+Test set: Average loss: 0.0037, Accuracy: 15544/21199 (73.3%), Precision: 77.7%, Recall: 72.0%
+
+Test set: Average loss: 0.0021, Accuracy: 15622/21199 (73.7%), Precision: 77.8%, Recall: 75.9%
+
+Test set: Average loss: 0.0017, Accuracy: 15511/21199 (73.2%), Precision: 77.0%, Recall: 76.9%
+
+Test set: Average loss: 0.0019, Accuracy: 15670/21199 (73.9%), Precision: 63.6%, Recall: 66.1%
+
+Test set: Average loss: 0.0030, Accuracy: 15642/21199 (73.8%), Precision: 84.5%, Recall: 86.2%
+
+Test set: Average loss: 0.0022, Accuracy: 15548/21199 (73.3%), Precision: 73.8%, Recall: 79.9%
+
+Test set: Average loss: 0.0047, Accuracy: 15753/21199 (74.3%), Precision: 69.2%, Recall: 67.9%
+
+Test set: Average loss: 0.0029, Accuracy: 15476/21199 (73.0%), Precision: 82.9%, Recall: 79.8%
+
+Test set: Average loss: 0.0044, Accuracy: 15599/21199 (73.6%), Precision: 65.3%, Recall: 65.3%
+
+Test set: Average loss: 0.0037, Accuracy: 15582/21199 (73.5%), Precision: 85.4%, Recall: 68.3%
+
+Test set: Average loss: 0.0031, Accuracy: 15605/21199 (73.6%), Precision: 77.3%, Recall: 72.6%
+
+Test set: Average loss: 0.0044, Accuracy: 15607/21199 (73.6%), Precision: 69.5%, Recall: 70.6%
+
+Test set: Average loss: 0.0044, Accuracy: 15584/21199 (73.5%), Precision: 79.3%, Recall: 78.0%
+
+Test set: Average loss: 0.0023, Accuracy: 15593/21199 (73.6%), Precision: 70.2%, Recall: 68.9%
+
+Test set: Average loss: 0.0037, Accuracy: 15540/21199 (73.3%), Precision: 75.1%, Recall: 76.8%
+
+Test set: Average loss: 0.0051, Accuracy: 15418/21199 (72.7%), Precision: 77.1%, Recall: 75.7%
+
+Test set: Average loss: 0.0030, Accuracy: 15621/21199 (73.7%), Precision: 76.6%, Recall: 73.7%
+
+Test set: Average loss: 0.0027, Accuracy: 15532/21199 (73.3%), Precision: 77.0%, Recall: 76.5%
+
+Test set: Average loss: 0.0034, Accuracy: 15549/21199 (73.3%), Precision: 70.5%, Recall: 67.0%
+
+Test set: Average loss: 0.0044, Accuracy: 15669/21199 (73.9%), Precision: 64.4%, Recall: 75.3%
+
+Test set: Average loss: 0.0015, Accuracy: 15638/21199 (73.8%), Precision: 76.4%, Recall: 76.7%
+
+Test set: Average loss: 0.0045, Accuracy: 15722/21199 (74.2%), Precision: 75.5%, Recall: 73.7%
+
+Test set: Average loss: 0.0053, Accuracy: 15668/21199 (73.9%), Precision: 74.4%, Recall: 76.5%
+
+Test set: Average loss: 0.0018, Accuracy: 15719/21199 (74.1%), Precision: 71.4%, Recall: 78.2%
+
+Test set: Average loss: 0.0040, Accuracy: 15627/21199 (73.7%), Precision: 82.4%, Recall: 81.7%
+
+Test set: Average loss: 0.0051, Accuracy: 15681/21199 (74.0%), Precision: 77.2%, Recall: 67.5%
+
+Test set: Average loss: 0.0039, Accuracy: 15697/21199 (74.0%), Precision: 77.4%, Recall: 80.1%
+
+Test set: Average loss: 0.0033, Accuracy: 15742/21199 (74.3%), Precision: 76.5%, Recall: 68.4%
+
+Test set: Average loss: 0.0035, Accuracy: 15681/21199 (74.0%), Precision: 67.2%, Recall: 72.0%
+
+Test set: Average loss: 0.0037, Accuracy: 15615/21199 (73.7%), Precision: 78.7%, Recall: 74.5%
+
+Test set: Average loss: 0.0047, Accuracy: 15658/21199 (73.9%), Precision: 71.7%, Recall: 65.5%
+
+Test set: Average loss: 0.0040, Accuracy: 15667/21199 (73.9%), Precision: 70.0%, Recall: 75.0%
+
+Test set: Average loss: 0.0020, Accuracy: 15723/21199 (74.2%), Precision: 79.3%, Recall: 71.4%
+
+Test set: Average loss: 0.0025, Accuracy: 15677/21199 (74.0%), Precision: 72.4%, Recall: 73.1%
+
+Test set: Average loss: 0.0074, Accuracy: 15519/21199 (73.2%), Precision: 67.9%, Recall: 68.3%
+
+Test set: Average loss: 0.0026, Accuracy: 15553/21199 (73.4%), Precision: 72.2%, Recall: 73.1%
+
+Test set: Average loss: 0.0037, Accuracy: 15717/21199 (74.1%), Precision: 87.1%, Recall: 86.0%
+
+Test set: Average loss: 0.0042, Accuracy: 15557/21199 (73.4%), Precision: 72.5%, Recall: 72.0%
+
+Test set: Average loss: 0.0032, Accuracy: 15608/21199 (73.6%), Precision: 83.0%, Recall: 87.3%
+
+Test set: Average loss: 0.0064, Accuracy: 15670/21199 (73.9%), Precision: 75.9%, Recall: 70.0%
+
+Test set: Average loss: 0.0046, Accuracy: 15606/21199 (73.6%), Precision: 88.1%, Recall: 88.4%
+
+Test set: Average loss: 0.0065, Accuracy: 15630/21199 (73.7%), Precision: 80.2%, Recall: 79.9%
+
+Test set: Average loss: 0.0042, Accuracy: 15617/21199 (73.7%), Precision: 74.0%, Recall: 73.8%
+
+Test set: Average loss: 0.0049, Accuracy: 15700/21199 (74.1%), Precision: 92.6%, Recall: 84.5%
+
+Test set: Average loss: 0.0043, Accuracy: 15608/21199 (73.6%), Precision: 75.0%, Recall: 75.2%
+
+Test set: Average loss: 0.0046, Accuracy: 15691/21199 (74.0%), Precision: 64.7%, Recall: 74.4%
+
+Test set: Average loss: 0.0029, Accuracy: 15796/21199 (74.5%), Precision: 75.7%, Recall: 75.9%
+
+Test set: Average loss: 0.0027, Accuracy: 15674/21199 (73.9%), Precision: 78.3%, Recall: 66.5%
+
+Test set: Average loss: 0.0028, Accuracy: 15764/21199 (74.4%), Precision: 69.8%, Recall: 64.4%
+
+Test set: Average loss: 0.0052, Accuracy: 15852/21199 (74.8%), Precision: 78.6%, Recall: 83.7%
+
+Test set: Average loss: 0.0058, Accuracy: 15644/21199 (73.8%), Precision: 82.5%, Recall: 83.2%
+
+Test set: Average loss: 0.0056, Accuracy: 15669/21199 (73.9%), Precision: 75.1%, Recall: 80.0%
+
+Test set: Average loss: 0.0063, Accuracy: 15634/21199 (73.7%), Precision: 73.8%, Recall: 74.0%
+
+Test set: Average loss: 0.0039, Accuracy: 15705/21199 (74.1%), Precision: 71.2%, Recall: 76.6%
+
+Test set: Average loss: 0.0037, Accuracy: 15638/21199 (73.8%), Precision: 72.4%, Recall: 83.9%
+
+Test set: Average loss: 0.0065, Accuracy: 15659/21199 (73.9%), Precision: 76.7%, Recall: 82.9%
+
+Test set: Average loss: 0.0035, Accuracy: 15606/21199 (73.6%), Precision: 72.7%, Recall: 74.0%
+
+Test set: Average loss: 0.0035, Accuracy: 15608/21199 (73.6%), Precision: 66.9%, Recall: 69.6%
+
+Test set: Average loss: 0.0054, Accuracy: 15689/21199 (74.0%), Precision: 70.0%, Recall: 74.9%
+
+Test set: Average loss: 0.0043, Accuracy: 15836/21199 (74.7%), Precision: 80.7%, Recall: 80.6%
+
+Test set: Average loss: 0.0046, Accuracy: 15722/21199 (74.2%), Precision: 84.7%, Recall: 82.1%
+
+Test set: Average loss: 0.0048, Accuracy: 15729/21199 (74.2%), Precision: 81.1%, Recall: 78.6%
+
+Test set: Average loss: 0.0046, Accuracy: 15632/21199 (73.7%), Precision: 72.0%, Recall: 74.3%
+
+Test set: Average loss: 0.0052, Accuracy: 15618/21199 (73.7%), Precision: 82.0%, Recall: 76.7%
+
+Test set: Average loss: 0.0030, Accuracy: 15657/21199 (73.9%), Precision: 85.3%, Recall: 82.5%
+
+Test set: Average loss: 0.0057, Accuracy: 15595/21199 (73.6%), Precision: 79.2%, Recall: 78.8%
+
+Test set: Average loss: 0.0048, Accuracy: 15652/21199 (73.8%), Precision: 81.2%, Recall: 76.2%
+
+Test set: Average loss: 0.0035, Accuracy: 15614/21199 (73.7%), Precision: 74.8%, Recall: 72.6%
+
+Test set: Average loss: 0.0046, Accuracy: 15787/21199 (74.5%), Precision: 74.2%, Recall: 72.5%
+
+Test set: Average loss: 0.0017, Accuracy: 15657/21199 (73.9%), Precision: 69.9%, Recall: 76.2%
+
+Test set: Average loss: 0.0053, Accuracy: 15601/21199 (73.6%), Precision: 67.3%, Recall: 73.7%
+
+Test set: Average loss: 0.0041, Accuracy: 15735/21199 (74.2%), Precision: 84.8%, Recall: 78.5%
+
+Test set: Average loss: 0.0048, Accuracy: 15572/21199 (73.5%), Precision: 72.1%, Recall: 78.4%
+
+Test set: Average loss: 0.0054, Accuracy: 15730/21199 (74.2%), Precision: 72.4%, Recall: 71.2%
+
+Test set: Average loss: 0.0033, Accuracy: 15629/21199 (73.7%), Precision: 69.4%, Recall: 73.1%
+
+Test set: Average loss: 0.0046, Accuracy: 15676/21199 (73.9%), Precision: 85.3%, Recall: 76.2%
+
+Test set: Average loss: 0.0024, Accuracy: 15613/21199 (73.6%), Precision: 84.9%, Recall: 73.0%
+
+Test set: Average loss: 0.0033, Accuracy: 15636/21199 (73.8%), Precision: 78.8%, Recall: 76.2%
+
+Test set: Average loss: 0.0027, Accuracy: 15701/21199 (74.1%), Precision: 69.5%, Recall: 80.4%
+
+Test set: Average loss: 0.0037, Accuracy: 15648/21199 (73.8%), Precision: 85.3%, Recall: 80.2%
+
+Test set: Average loss: 0.0047, Accuracy: 15661/21199 (73.9%), Precision: 82.3%, Recall: 75.6%
+
+Test set: Average loss: 0.0044, Accuracy: 15644/21199 (73.8%), Precision: 72.6%, Recall: 71.8%
+
+Test set: Average loss: 0.0057, Accuracy: 15560/21199 (73.4%), Precision: 78.4%, Recall: 76.2%
+
+Test set: Average loss: 0.0041, Accuracy: 15638/21199 (73.8%), Precision: 75.4%, Recall: 73.0%
+
+Test set: Average loss: 0.0039, Accuracy: 15670/21199 (73.9%), Precision: 73.3%, Recall: 74.3%
+
+Test set: Average loss: 0.0034, Accuracy: 15628/21199 (73.7%), Precision: 81.0%, Recall: 82.5%
+
+Test set: Average loss: 0.0031, Accuracy: 15612/21199 (73.6%), Precision: 86.6%, Recall: 85.9%
+
+Test set: Average loss: 0.0053, Accuracy: 15630/21199 (73.7%), Precision: 76.0%, Recall: 75.1%
+
+Test set: Average loss: 0.0041, Accuracy: 15700/21199 (74.1%), Precision: 72.3%, Recall: 69.4%
+
+Test set: Average loss: 0.0038, Accuracy: 15749/21199 (74.3%), Precision: 66.9%, Recall: 65.7%
+
+Test set: Average loss: 0.0045, Accuracy: 15759/21199 (74.3%), Precision: 74.6%, Recall: 79.0%
+
+Test set: Average loss: 0.0063, Accuracy: 15698/21199 (74.1%), Precision: 66.7%, Recall: 73.8%
+
+Test set: Average loss: 0.0049, Accuracy: 15723/21199 (74.2%), Precision: 77.8%, Recall: 78.2%
+
+Test set: Average loss: 0.0030, Accuracy: 15771/21199 (74.4%), Precision: 68.8%, Recall: 73.1%
+
+Test set: Average loss: 0.0019, Accuracy: 15701/21199 (74.1%), Precision: 70.8%, Recall: 68.6%
+
+Test set: Average loss: 0.0048, Accuracy: 15773/21199 (74.4%), Precision: 68.1%, Recall: 68.5%
+
+Test set: Average loss: 0.0058, Accuracy: 15701/21199 (74.1%), Precision: 76.4%, Recall: 75.8%
+
+Test set: Average loss: 0.0069, Accuracy: 15808/21199 (74.6%), Precision: 74.4%, Recall: 80.8%
+
+Test set: Average loss: 0.0042, Accuracy: 15683/21199 (74.0%), Precision: 74.9%, Recall: 77.4%
+
+Test set: Average loss: 0.0062, Accuracy: 15533/21199 (73.3%), Precision: 75.7%, Recall: 77.2%
+
+Test set: Average loss: 0.0042, Accuracy: 15710/21199 (74.1%), Precision: 70.0%, Recall: 74.0%
+
+Test set: Average loss: 0.0068, Accuracy: 15753/21199 (74.3%), Precision: 80.1%, Recall: 75.7%
+
+Test set: Average loss: 0.0047, Accuracy: 15753/21199 (74.3%), Precision: 75.6%, Recall: 78.6%
+
+Test set: Average loss: 0.0091, Accuracy: 15713/21199 (74.1%), Precision: 77.8%, Recall: 76.2%
+
+Test set: Average loss: 0.0016, Accuracy: 15644/21199 (73.8%), Precision: 75.4%, Recall: 79.1%
+
+Test set: Average loss: 0.0025, Accuracy: 15674/21199 (73.9%), Precision: 78.3%, Recall: 73.7%
+
+Test set: Average loss: 0.0039, Accuracy: 15815/21199 (74.6%), Precision: 74.6%, Recall: 75.2%
+
+Test set: Average loss: 0.0041, Accuracy: 15633/21199 (73.7%), Precision: 76.2%, Recall: 73.0%
+
+Test set: Average loss: 0.0051, Accuracy: 15756/21199 (74.3%), Precision: 70.2%, Recall: 73.0%
+
+Test set: Average loss: 0.0074, Accuracy: 15773/21199 (74.4%), Precision: 81.9%, Recall: 78.8%
+
+Test set: Average loss: 0.0059, Accuracy: 15680/21199 (74.0%), Precision: 80.7%, Recall: 80.5%
+
+Test set: Average loss: 0.0039, Accuracy: 15654/21199 (73.8%), Precision: 59.1%, Recall: 62.5%
+
+Test set: Average loss: 0.0044, Accuracy: 15725/21199 (74.2%), Precision: 74.4%, Recall: 72.7%
+
+Test set: Average loss: 0.0044, Accuracy: 15759/21199 (74.3%), Precision: 77.0%, Recall: 80.4%
+
+Test set: Average loss: 0.0031, Accuracy: 15726/21199 (74.2%), Precision: 80.7%, Recall: 76.8%
+
+Test set: Average loss: 0.0050, Accuracy: 15745/21199 (74.3%), Precision: 69.5%, Recall: 75.9%
+
+Test set: Average loss: 0.0055, Accuracy: 15778/21199 (74.4%), Precision: 83.1%, Recall: 91.1%
+
+Test set: Average loss: 0.0074, Accuracy: 15839/21199 (74.7%), Precision: 83.1%, Recall: 85.0%
+
+Test set: Average loss: 0.0050, Accuracy: 15900/21199 (75.0%), Precision: 80.0%, Recall: 70.0%
+
+Test set: Average loss: 0.0038, Accuracy: 15754/21199 (74.3%), Precision: 69.7%, Recall: 67.3%
+
+Test set: Average loss: 0.0039, Accuracy: 15824/21199 (74.6%), Precision: 87.1%, Recall: 77.5%
+
+Test set: Average loss: 0.0032, Accuracy: 15744/21199 (74.3%), Precision: 72.9%, Recall: 77.1%
+
+Test set: Average loss: 0.0046, Accuracy: 15695/21199 (74.0%), Precision: 86.4%, Recall: 79.8%
+
+Test set: Average loss: 0.0046, Accuracy: 15725/21199 (74.2%), Precision: 79.1%, Recall: 69.8%
+
+Test set: Average loss: 0.0049, Accuracy: 15677/21199 (74.0%), Precision: 76.7%, Recall: 80.2%
+
+Test set: Average loss: 0.0034, Accuracy: 15790/21199 (74.5%), Precision: 78.0%, Recall: 76.2%
+
+Test set: Average loss: 0.0064, Accuracy: 15709/21199 (74.1%), Precision: 79.9%, Recall: 78.7%
+
+Test set: Average loss: 0.0036, Accuracy: 15751/21199 (74.3%), Precision: 76.0%, Recall: 76.5%
+
+Test set: Average loss: 0.0042, Accuracy: 15714/21199 (74.1%), Precision: 74.1%, Recall: 75.9%
+
+Test set: Average loss: 0.0038, Accuracy: 15797/21199 (74.5%), Precision: 81.8%, Recall: 74.4%
+
+Test set: Average loss: 0.0024, Accuracy: 15766/21199 (74.4%), Precision: 72.2%, Recall: 80.5%
+
+Test set: Average loss: 0.0038, Accuracy: 15698/21199 (74.1%), Precision: 78.4%, Recall: 76.9%
+
+Test set: Average loss: 0.0036, Accuracy: 15781/21199 (74.4%), Precision: 84.5%, Recall: 84.2%
+
+Test set: Average loss: 0.0062, Accuracy: 15743/21199 (74.3%), Precision: 70.4%, Recall: 75.7%
+
+Test set: Average loss: 0.0038, Accuracy: 15770/21199 (74.4%), Precision: 67.1%, Recall: 74.7%
+
+Test set: Average loss: 0.0038, Accuracy: 15800/21199 (74.5%), Precision: 54.6%, Recall: 63.5%
+
+Test set: Average loss: 0.0023, Accuracy: 15756/21199 (74.3%), Precision: 74.7%, Recall: 78.7%
+
+Test set: Average loss: 0.0013, Accuracy: 15729/21199 (74.2%), Precision: 75.7%, Recall: 77.1%
+
+Test set: Average loss: 0.0031, Accuracy: 15821/21199 (74.6%), Precision: 76.7%, Recall: 78.0%
+
+Test set: Average loss: 0.0066, Accuracy: 15788/21199 (74.5%), Precision: 77.4%, Recall: 76.5%
+
+Test set: Average loss: 0.0057, Accuracy: 15770/21199 (74.4%), Precision: 64.9%, Recall: 66.8%
+
+Test set: Average loss: 0.0045, Accuracy: 15803/21199 (74.5%), Precision: 80.3%, Recall: 81.2%
+
+Test set: Average loss: 0.0051, Accuracy: 15749/21199 (74.3%), Precision: 84.2%, Recall: 80.4%
+
+Test set: Average loss: 0.0046, Accuracy: 15790/21199 (74.5%), Precision: 81.2%, Recall: 81.1%
+
+Test set: Average loss: 0.0057, Accuracy: 15830/21199 (74.7%), Precision: 70.5%, Recall: 74.8%
+
+Test set: Average loss: 0.0055, Accuracy: 15762/21199 (74.4%), Precision: 76.3%, Recall: 77.2%
+
+Test set: Average loss: 0.0046, Accuracy: 15748/21199 (74.3%), Precision: 71.4%, Recall: 75.8%
+
+Test set: Average loss: 0.0049, Accuracy: 15875/21199 (74.9%), Precision: 67.6%, Recall: 67.9%
+
+Test set: Average loss: 0.0061, Accuracy: 15848/21199 (74.8%), Precision: 74.9%, Recall: 75.4%
